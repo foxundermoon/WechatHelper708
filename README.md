@@ -1,3 +1,3 @@
 # Ipad协议708
-ipad协议
+ipad协议提供http接口服务
 有需要学习交流的加微信nwangnan
